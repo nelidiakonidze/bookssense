@@ -47,7 +47,7 @@ Certainly! Here's the complete README.md file with all the content in one markdo
 
 markdown
 Copy code
-# Bookify 📚
+# Book Ssense 📚
 
 ![Bookify Logo](bookify-logo.png)
 
