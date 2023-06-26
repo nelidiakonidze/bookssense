@@ -1,9 +1,5 @@
 <h1 align="center">Book Ssense 📚</h1>
 
-<p align="center">
-  <img src="bookify-logo.png" alt="Bookify Logo" width="200" />
-</p>
-
 <p align="center">A web application for storing, categorizing, and providing book recommendations using AI.</p>
 
 <p align="center">
